@@ -314,7 +314,7 @@ background-color: #e60073;
 .Join {
   position: relative;
   top: 5rem;
-  left: 43rem;
+  left: 38rem;
   text-align: center;
   color: white;
 }
@@ -329,7 +329,7 @@ background-color: #e60073;
 .cities{
   position: relative;
   top: 5rem;
-  left: 23em;
+  left: 22.5em;
   color: white;
   font-size: 35px;
 }
@@ -350,7 +350,7 @@ background-color: #e60073;
 
 .Cities{
   position: relative;
-  left: 42.7em;
+  left: 42em;
   bottom: 3.2em;
   color: white;
   font-weight: lighter;
